@@ -14,4 +14,4 @@ function is designed to capture the similarity of the neighbor probability distr
 connectivity between points. By employing the Normalized-Cut (Ncut) technique, a Ncut-Y algorithm is proposed. Benefiting from the
 excellent performance of Y-graph, Ncut-Y can fast seek and cut the edges located in the low-density boundaries between clusters,
 thereby, capturing clusters effectively. Experimental results on both synthetic and real datasets demonstrate the effectiveness of
-Y-graph and Ncut-Y
+Y-graph and Ncut-Y.
