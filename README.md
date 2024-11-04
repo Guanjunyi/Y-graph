@@ -1,6 +1,6 @@
 # Y-graph: A max-ascent-angle graph for detecting clusters
 
-which is published in IEEE Transactions on Transactions on Knowledge and Data Engineering（TKDE）, 2024.
+which is published in IEEE Transactions on Transactions on Knowledge and Data Engineering（TKDE）, 2024. DOI: 10.1109/TKDE.2024.3486221
 
 
 Abstract: Graph clustering technique is highly effective in detecting complex-shaped clusters, in which graph building is a crucial step.
